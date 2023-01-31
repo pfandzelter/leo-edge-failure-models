@@ -1,0 +1,4 @@
+pandas==1.5.2
+sgp4==2.21
+beautifulsoup4==4.11.1
+lxml==4.9.2

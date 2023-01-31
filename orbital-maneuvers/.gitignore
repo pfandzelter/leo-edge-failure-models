@@ -1,0 +1,11 @@
+*.mp4
+cleaned/
+raw_tle/
+raw_conjunctions/
+images/
+
+# these directories contain tools to scrape CelesTrak
+# out of respect for the organization, which is a non-profit, we will not provide
+# the tools to scrape their website here
+commsats-tle-archive
+commsats-conjunctions-archive
