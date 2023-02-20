@@ -6,7 +6,7 @@ If you use this software in a publication, please cite it as:
 
 ### Text
 
-T. Pfandzelter and D. Bermbach, **Failure is not an Option: Considerations for Software Fault-Tolerance in LEO Satellite Edge Computing**, 2023.
+T. Pfandzelter and D. Bermbach, **Failure is not an Option: Considerations for Software Fault-Tolerance in LEO Satellite Edge Computing**, arXiv:2302.08952 [cs.DC] 2023.
 
 ### BibTeX
 
@@ -14,10 +14,12 @@ T. Pfandzelter and D. Bermbach, **Failure is not an Option: Considerations for S
 @article{pfandzelter2023leoedgefaults,
     title = "Failure is not an Option: Considerations for Software Fault-Tolerance in LEO Satellite Edge Computing",
     author = "Pfandzelter, Tobias and Bermbach, David",
+    journal = "arXiv:2302.08952 [cs.DC]",
     year = 2023
 }
 ```
 
+A preprint is available at [arXiv](https://arxiv.org/abs/2302.08952).
 For a full list of publications, please see [our website](https://www.tu.berlin/en/mcc/research/publications).
 
 ### License
