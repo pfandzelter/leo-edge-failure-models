@@ -19,7 +19,7 @@ T. Pfandzelter and D. Bermbach, **Failure is not an Option: Considerations for S
 }
 ```
 
-A preprint is available at [arXiv](https://arxiv.org/abs/2302.08952).
+A preprint is available on [arXiv](https://arxiv.org/abs/2302.08952).
 For a full list of publications, please see [our website](https://www.tu.berlin/en/mcc/research/publications).
 
 ### License
