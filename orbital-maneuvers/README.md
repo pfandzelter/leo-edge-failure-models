@@ -14,20 +14,20 @@ Further, the cleaned data we have is unfortunately too large to share on GitHub 
 
 From the TLE files, we can create a list of satellite positions over time using the `propagate_sat.py` script:
 
-    ```sh
-    ./propagate_sat.py ./cleaned/starlink.csv ./propagated
-    ```
+```sh
+./propagate_sat.py ./cleaned/starlink.csv ./propagated
+```
 
 This will create a positional data for each unique satellite in the `propagated` directory.
 
 ## Plot Conjunctions
 
-    ```sh
-    ./plot_conjunctions.py ./cleaned/starlink-conjunctions/ ./propagated/STARLINK ./images/conjunctions
-    ```
+```sh
+./plot_conjunctions.py ./cleaned/starlink-conjunctions/ ./propagated/STARLINK ./images/conjunctions
+```
 
 ## Plot Orbits
 
-    ```sh
-    ./graph_sat.py ./propagated/STARLINK ./images/orbits
-    ```
+```sh
+./graph_sat.py ./propagated/STARLINK ./images/orbits
+```
