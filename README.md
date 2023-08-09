@@ -1,4 +1,4 @@
-# Failure is not an Option: Considerations for Software Fault-Tolerance in LEO Satellite Edge Computing
+# Edge Computing in Low-Earth Orbit -- What Could Possibly Go Wrong?
 
 This repository contains experiments and simulations accompanying our paper on failure scenarios for LEO edge computing.
 
@@ -6,16 +6,22 @@ If you use this software in a publication, please cite it as:
 
 ### Text
 
-T. Pfandzelter and D. Bermbach, **Failure is not an Option: Considerations for Software Fault-Tolerance in LEO Satellite Edge Computing**, arXiv:2302.08952 [cs.DC] 2023.
+T. Pfandzelter and D. Bermbach, **Edge Computing in Low-Earth Orbit -- What Could Possibly Go Wrong?**, 1st ACM Workshop on LEO Networking and Communication (LEO-NET '23), Madrid, Spain. Association for Computing Machinery, New York, NY, USA. October, 2023.
 
 ### BibTeX
 
 ```bibtex
-@article{pfandzelter2023leoedgefaults,
-    title = "Failure is not an Option: Considerations for Software Fault-Tolerance in LEO Satellite Edge Computing",
+@inproceedings{pfandzelter2023failure,
     author = "Pfandzelter, Tobias and Bermbach, David",
-    journal = "arXiv:2302.08952 [cs.DC]",
-    year = 2023
+    title = "Edge Computing in Low-Earth Orbit -- What Could Possibly Go Wrong?",
+    booktitle = "Proceedings of the the 1st ACM Workshop on LEO Networking and Communication 2023",
+    month = oct,
+    year = 2023,
+    publisher = "ACM",
+    address = "New York, NY, USA",
+    series = "LEO-NET '23",
+    location = "Madrid, Spain",
+    numpages = 6
 }
 ```
 

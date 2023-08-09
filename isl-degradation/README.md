@@ -20,4 +20,10 @@ Requirements are Python (probably version 3.9) and Jupyter.
 
     This will create and fill a folder called `distances-results`.
 
+1. Run `combine.py` to combine results into a results file (called `results.csv`):
+
+    ```sh
+    python3 combine.py
+    ```
+
 1. Analyze these results with the `analyze.ipynb` notebook.
