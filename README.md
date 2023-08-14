@@ -21,7 +21,9 @@ T. Pfandzelter and D. Bermbach, **Edge Computing in Low-Earth Orbit -- What Coul
     address = "New York, NY, USA",
     series = "LEO-NET '23",
     location = "Madrid, Spain",
-    numpages = 6
+    numpages = 6,
+    doi = "10.1145/3614204.3616106",
+    url = "https://doi.org/10.1145/3614204.3616106"
 }
 ```
 
